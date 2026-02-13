@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Cheating on You",
+  "base_artist": "Charlie Puth",
+  "createdAt": "2026-02-13T10:35:03.852800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheating On You",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/01_Cheating_On_You_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheating On You",
+      "artist": "Kylie Morgan",
+      "has_synced": true,
+      "path": "select/02_Cheating_On_You_Kylie_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Feel Like I'm Cheating On You",
+      "artist": "Ronnie Milsap",
+      "has_synced": false,
+      "path": "select/03_I_Feel_Like_I'm_Cheating_On_You_Ronnie_Milsap.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheating on You",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/04_Cheating_on_You_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheating on You",
+      "artist": "LoBo",
+      "has_synced": false,
+      "path": "select/05_Cheating_on_You_LoBo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cheating On You",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/06_Cheating_On_You_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cheating On You (Album Version)",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/07_Cheating_On_You_(Album_Version)_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cheating on You",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/08_Cheating_on_You_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cheating On You",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/09_Cheating_On_You_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cheating on You",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/10_Cheating_on_You_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cheating On You",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/11_Cheating_On_You_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cheating on You",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/12_Cheating_on_You_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Charlie Puth - Cheating on You [Official Video]",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/13_Charlie_Puth_-_Cheating_on_You_[Official_Video]_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cheating On You - Charlie Puth [Vietsub   Lyrics]",
+      "artist": "Café 199x",
+      "has_synced": true,
+      "path": "select/14_Cheating_On_You_-_Charlie_Puth_[Vietsub_Lyrics]_Café_199x.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cheating On You",
+      "artist": "Franz Ferdinand",
+      "has_synced": false,
+      "path": "select/15_Cheating_On_You_Franz_Ferdinand.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cheating On the Blues",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/16_Cheating_On_the_Blues_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cheating on U",
+      "artist": "Lacy Cavalier",
+      "has_synced": true,
+      "path": "select/17_Cheating_on_U_Lacy_Cavalier.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cheating On Me",
+      "artist": "Kwabs",
+      "has_synced": true,
+      "path": "select/18_Cheating_On_Me_Kwabs.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cheating on a Dead Wife",
+      "artist": "Big Heavy Stuff",
+      "has_synced": false,
+      "path": "select/19_Cheating_on_a_Dead_Wife_Big_Heavy_Stuff.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Cheating On Wifey",
+      "artist": "Krept & Konan feat. MoStack",
+      "has_synced": false,
+      "path": "select/20_Cheating_On_Wifey_Krept_&_Konan_feat._MoStack.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Cheating On Wifey",
+      "artist": "Krept & Konan & MoStack",
+      "has_synced": false,
+      "path": "select/21_Cheating_On_Wifey_Krept_&_Konan_&_MoStack.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Cheating on Me (feat. Zak Abel) (Tom Misch Refix) - Tom Misch refix",
+      "artist": "Kwabs feat. Zak Abel",
+      "has_synced": true,
+      "path": "select/22_Cheating_on_Me_(feat._Zak_Abel)_(Tom_Misch_Refix)_-_Tom_Misch_refix_Kwabs_feat._Zak_Abel.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Cheating On Me (feat. Zak Abel) [Tom Misch Refix]",
+      "artist": "Kwabs",
+      "has_synced": true,
+      "path": "select/23_Cheating_On_Me_(feat._Zak_Abel)_[Tom_Misch_Refix]_Kwabs.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Look Who I'm Cheating On Tonight",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/24_Look_Who_I'm_Cheating_On_Tonight_Bobby_Bare.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cheating on You",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_01_Cheating_on_You_Charlie_Puth.txt"
+    }
+  ]
+}
